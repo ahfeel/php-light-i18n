@@ -4,4 +4,4 @@ Light-i18n is a very lightweight and high speed library for internationalization
 - They get compiled into real PHP classes
 - Usage is very elegant: L::constant_key
 
-Nothing very fancy or whatever, just effecient :-)
+Nothing very fancy or whatever, just efficient :-)
